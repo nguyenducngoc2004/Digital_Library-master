@@ -96,9 +96,9 @@ cd frontend
 npm start
 ```
 ## 👤 5. Liên hệ
-**Họ tên**: Trịnh Minh Thành.  
+**Họ tên**: Nguyễn Đức Ngọc.  
 **Lớp**: CNTT 16-03.  
-**Email**: thanhmeo260604@gmail.com.
+**Email**: ducngocnguyen004@gmail.com@gmail.com.
 
 © 2025 Faculty of Information Technology, DaiNam University. All rights reserved.
 
